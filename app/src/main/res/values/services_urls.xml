@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="service_login">http://localhost:9000/login</string>
+    <string name="service_posts">http://localhost:9000/allPosts</string>
+
+</resources>
